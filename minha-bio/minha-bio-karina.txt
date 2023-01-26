@@ -1,0 +1,1 @@
+Olá, meu nome é Karina! Tenho 28 anos, sou casada, tenho um coelho e adoro dançar. Atualmente estou estudando programação Web Full Stack na Labenu." > minha-bio.txt
